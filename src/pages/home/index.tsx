@@ -47,7 +47,7 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Hello, my name is {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-            I{" "}
+              I{" "}
               <Text as="span" type="heading1" color="brand1">
                 love
               </Text>{" "}
@@ -58,8 +58,15 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+              Good experience with project development by using HTML, CSS,
+              JavaScript, React, TypeScript, Hooks, Express, PostgreSQL,
+              TypeORM, Node.js, Python and Django. Basics with the Redux
+              concept. Familiarity with best practices of Git, GitFlow, and
+              GitHub. Good practices with Building RESTful APIs, Consuming APIs.
+              Experience in solutions based on Programming Logic and Quality.
+              Experiences in using agile methodology (Trello and Notion). Fluent
+              English (Writing, reading and speaking) and advanced Portuguese
+              (Writing, reading and speaking).
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
